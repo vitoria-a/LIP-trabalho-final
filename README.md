@@ -1,1 +1,1 @@
-# LIP
+# Linguagens de programação
